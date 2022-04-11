@@ -9,6 +9,13 @@ tags: ["installation", "configuration"]
 categories: ["documentation"]
 math:
   enable: true
+
+
+menu:
+  main:
+    title: "关于主题。"
+    parent: "documentation"
+    pre: "<i class='fab fa-readme fa-fw fa-sm'></i>"
 ---
 
 {{< style "img { height: 1.25rem; }" >}}
