@@ -1,7 +1,7 @@
 baseURL = "https://jiezai-cbd.github.io"
 # [en, zh-cn, fr, pl, ...] determines default content language
 # [en, zh-cn, fr, pl, ...] 设置默认的语言
-defaultContentLanguage = "en"
+defaultContentLanguage = "zh-cn"
 # theme
 # 主题
 theme = "FixIt"
@@ -11,7 +11,7 @@ theme = "FixIt"
 
 # website title
 # 网站标题
-title = "FixIt"
+title = "jiezai-cbd 的博客"
 
 # Ignore errors
 # 忽略错误
@@ -349,13 +349,13 @@ enableEmoji = true
           class = "text-center"
     [languages.zh-cn.params]
       # 网站描述
-      description = "关于 FixIt 主题"
+      description = "jiezai-cbd 的博客"
       # 网站关键词
-      keywords = ["Theme", "Hugo"]
+      keywords = ["Blog", "jiezai-cbd"]
       # 应用图标配置
       [languages.zh-cn.params.app]
         # 当添加到 iOS 主屏幕或者 Android 启动器时的标题, 覆盖默认标题
-        title = "FixIt"
+        title = "jiezai-cbd 的博客"
         # 是否隐藏网站图标资源链接
         noFavicon = false
         # 更现代的 SVG 网站图标, 可替代旧的 .png 和 .ico 文件
@@ -419,7 +419,7 @@ enableEmoji = true
           paginate = 7
       # 主页的社交信息设置
       [languages.zh-cn.params.social]
-        GitHub = "xxxx"
+        GitHub = "jiezai-cbd"
         Linkedin = ""
         Twitter = ""
         Instagram = ""
@@ -439,7 +439,7 @@ enableEmoji = true
         FreeCodeCamp = ""
         Bitbucket = ""
         Stackoverflow = ""
-        Weibo = "xxxx"
+        Weibo = ""
         Odnoklassniki = ""
         VK = ""
         Flickr = ""
@@ -463,7 +463,7 @@ enableEmoji = true
         Skype = ""
         Whatsapp = ""
         Zhihu = "xxxx"
-        Douban = "xxxx"
+        Douban = ""
         Angellist = ""
         Slidershare = ""
         Jsfiddle = ""
@@ -476,11 +476,11 @@ enableEmoji = true
         Researchgate = ""
         Mastodon = ""
         Thingiverse = ""
-        Devto = "xxxx"
+        Devto = ""
         Gitea = ""
         XMPP = ""
         Matrix = ""
-        Bilibili = "xxxx"
+        Bilibili = "367451044"
         # ORCID, ... , CSDN since v0.2.13
         ORCID = ""
         Liberapay = ""
@@ -491,7 +491,7 @@ enableEmoji = true
         QQGroup = ""
         Diaspora = ""
         CSDN = ""
-        Email = "xxxx@xxxx.com"
+        Email = "wwjpcx@163.com"
         RSS = true # since v0.2.0
       # 盘古之白配置 since v0.2.12
       [languages.zh-cn.params.pangu]
