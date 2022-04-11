@@ -7,6 +7,9 @@ draft: false
 author: "Lruihao"
 authorLink: "https://lruihao.cn"
 description: "了解如何在 FixIt 主题中快速，直观地创建和组织内容。"
+
+
+hiddenFromHomePage: true
 resources:
 - name: "featured-image"
   src: "featured-image.jpg"

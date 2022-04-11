@@ -7,6 +7,10 @@ draft: false
 author: "Lruihao"
 authorLink: "https://lruihao.cn"
 description: "探索 Hugo - FixIt 主题的全部内容和背后的核心概念。"
+
+
+hiddenFromHomePage: true
+
 resources:
 - name: "featured-image"
   src: "featured-image.jpg"

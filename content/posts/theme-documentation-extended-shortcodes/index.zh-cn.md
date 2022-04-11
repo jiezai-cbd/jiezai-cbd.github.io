@@ -6,6 +6,9 @@ draft: false
 author: "Lruihao"
 authorLink: "https://lruihao.cn"
 description: "FixIt 主题在 Hugo 内置的 shortcode 的基础上提供多个扩展的 shortcode"
+
+
+hiddenFromHomePage: true
 resources:
 - name: "featured-image"
   src: "featured-image.jpg"

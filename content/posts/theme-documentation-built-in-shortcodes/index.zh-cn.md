@@ -7,6 +7,8 @@ draft: false
 author: "Lruihao"
 authorLink: "https://lruihao.cn"
 description: "Hugo 提供了多个内置的 Shortcodes, 以方便作者保持 Markdown 内容的整洁。"
+
+hiddenFromHomePage: true
 resources:
 - name: "featured-image"
   src: "featured-image.png"
