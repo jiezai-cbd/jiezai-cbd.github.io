@@ -547,7 +547,7 @@ enableEmoji = true
       # LOGO 的 URL
       # logo = "/images/fixit.svg"
 
-      logo = "/images/avator.png"
+      logo = "/images/avatar.png"
       # title name
       # 标题名称
       name = "jiezai-cbd 的博客"
