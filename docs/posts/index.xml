@@ -4,27 +4,13 @@
     <link>https://jiezai-cbd.github.io/posts/</link>
     <description>所有文章 | jiezai-cbd 的博客</description>
     <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>wwjpcx@163.com (jiezai-cbd)</managingEditor>
-      <webMaster>wwjpcx@163.com (jiezai-cbd)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Wed, 26 Jan 2022 11:10:56 &#43;0800</lastBuildDate><atom:link href="https://jiezai-cbd.github.io/posts/" rel="self" type="application/rss+xml" /><item>
-  <title>主题文档 - PWA 支持</title>
-  <link>https://jiezai-cbd.github.io/pwa-support/</link>
-  <pubDate>Wed, 26 Jan 2022 11:10:56 &#43;0800</pubDate>
-  <author>Lruihao</author>
-  <guid>https://jiezai-cbd.github.io/pwa-support/</guid>
-  <description><![CDATA[<p>了解如何在 FixIt 主题中配置渐进式网络应用程序 (PWA)。</p>]]></description>
-</item><item>
-  <title>Emoji 支持</title>
-  <link>https://jiezai-cbd.github.io/emoji-support/</link>
-  <pubDate>Tue, 01 Oct 2019 17:55:28 &#43;0800</pubDate>
-  <author>Dillon</author>
-  <guid>https://jiezai-cbd.github.io/emoji-support/</guid>
-  <description><![CDATA[<p>Emoji 可以通过多种方式在 Hugo 项目中启用。</p>]]></description>
-</item><item>
-  <title>Markdown 基本语法</title>
-  <link>https://jiezai-cbd.github.io/basic-markdown-syntax/</link>
-  <pubDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</pubDate>
-  <author>Dillon</author>
-  <guid>https://jiezai-cbd.github.io/basic-markdown-syntax/</guid>
-  <description><![CDATA[<p>这篇文章提供了可以在 Hugo 的文章中使用的基本 Markdown 语法示例。</p>]]></description>
+      <webMaster>wwjpcx@163.com (jiezai-cbd)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Mon, 11 Apr 2022 12:14:49 &#43;0800</lastBuildDate><atom:link href="https://jiezai-cbd.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+  <title>Index</title>
+  <link>https://jiezai-cbd.github.io/desktop/</link>
+  <pubDate>Mon, 11 Apr 2022 12:14:49 &#43;0800</pubDate>
+  <author>jiezai-cbd</author>
+  <guid>https://jiezai-cbd.github.io/desktop/</guid>
+  <description><![CDATA[这是一篇测试文章]]></description>
 </item><item>
   <title>主题文档 - 扩展 Shortcodes</title>
   <link>https://jiezai-cbd.github.io/theme-documentation-extended-shortcodes/</link>
@@ -54,6 +40,27 @@
   <guid>https://jiezai-cbd.github.io/theme-documentation-basics/</guid>
   <description><![CDATA[<p>探索 Hugo - <strong>FixIt</strong> 主题的全部内容和背后的核心概念。</p>]]></description>
 </item><item>
+  <title>主题文档 - PWA 支持</title>
+  <link>https://jiezai-cbd.github.io/pwa-support/</link>
+  <pubDate>Wed, 26 Jan 2022 11:10:56 &#43;0800</pubDate>
+  <author>Lruihao</author>
+  <guid>https://jiezai-cbd.github.io/pwa-support/</guid>
+  <description><![CDATA[<p>了解如何在 FixIt 主题中配置渐进式网络应用程序 (PWA)。</p>]]></description>
+</item><item>
+  <title>Emoji 支持</title>
+  <link>https://jiezai-cbd.github.io/emoji-support/</link>
+  <pubDate>Tue, 01 Oct 2019 17:55:28 &#43;0800</pubDate>
+  <author>Dillon</author>
+  <guid>https://jiezai-cbd.github.io/emoji-support/</guid>
+  <description><![CDATA[<p>Emoji 可以通过多种方式在 Hugo 项目中启用。</p>]]></description>
+</item><item>
+  <title>Markdown 基本语法</title>
+  <link>https://jiezai-cbd.github.io/basic-markdown-syntax/</link>
+  <pubDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</pubDate>
+  <author>Dillon</author>
+  <guid>https://jiezai-cbd.github.io/basic-markdown-syntax/</guid>
+  <description><![CDATA[<p>这篇文章提供了可以在 Hugo 的文章中使用的基本 Markdown 语法示例。</p>]]></description>
+</item><item>
   <title>主题文档 - 基本概念</title>
   <link>https://jiezai-cbd.github.io/theme-documentation-basics/</link>
   <pubDate>Fri, 06 Mar 2020 21:40:32 &#43;0800</pubDate>
@@ -102,5 +109,12 @@
   <author>Lruihao</author>
   <guid>https://jiezai-cbd.github.io/pwa-support/</guid>
   <description><![CDATA[<p>了解如何在 FixIt 主题中配置渐进式网络应用程序 (PWA)。</p>]]></description>
+</item><item>
+  <title>Index</title>
+  <link>https://jiezai-cbd.github.io/desktop/</link>
+  <pubDate>Mon, 11 Apr 2022 12:14:49 &#43;0800</pubDate>
+  <author>jiezai-cbd</author>
+  <guid>https://jiezai-cbd.github.io/desktop/</guid>
+  <description><![CDATA[这是一篇测试文章]]></description>
 </item></channel>
 </rss>
