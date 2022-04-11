@@ -10,7 +10,8 @@ math:
 ---
 
 ---
-{{ $image := .Resources.GetMatch "1.gif" }}
-
+{{ with .Resources.GetMatch "1.gif" }}
+  <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}">
+{{ end }}
 ---
 
