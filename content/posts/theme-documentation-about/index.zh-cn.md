@@ -5,6 +5,8 @@ draft: false
 hiddenFromHomePage: true
 lightgallery: true
 
+tags: ["installation", "configuration"]
+categories: ["documentation"]
 math:
   enable: true
 ---
