@@ -12,10 +12,10 @@ comment: false
 ## 基本信息
 
 ```yaml
-- nickname: 菠菜眾長
-  avatar: https://lruihao.cn/images/avatar.jpg
-  url: https://lruihao.cn
-  description: 李瑞豪的博客
+- nickname: jiezai-cbd
+  avatar: https://jiezai-cbd.github.io/images/avatar.jpg
+  url: https://jiezai-cbd.github.io
+  description: jiezai-cbd的博客
 ```
 
 ## 友情提醒
