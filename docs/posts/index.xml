@@ -5,19 +5,26 @@
     <description>所有文章 | jiezai-cbd 的博客</description>
     <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>wwjpcx@163.com (jiezai-cbd)</managingEditor>
       <webMaster>wwjpcx@163.com (jiezai-cbd)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Mon, 11 Apr 2022 12:14:49 &#43;0800</lastBuildDate><atom:link href="https://jiezai-cbd.github.io/posts/" rel="self" type="application/rss+xml" /><item>
-  <title>记录我看过的小说</title>
-  <link>https://jiezai-cbd.github.io/some-littlesay/</link>
-  <pubDate>Mon, 11 Apr 2022 12:14:49 &#43;0800</pubDate>
-  <author>jiezai-cbd</author>
-  <guid>https://jiezai-cbd.github.io/some-littlesay/</guid>
-  <description><![CDATA[记录我看过的小说]]></description>
-</item><item>
   <title>记录一些骚话</title>
   <link>https://jiezai-cbd.github.io/obscene-remarks/</link>
   <pubDate>Mon, 11 Apr 2022 12:14:49 &#43;0800</pubDate>
   <author>jiezai-cbd</author>
   <guid>https://jiezai-cbd.github.io/obscene-remarks/</guid>
   <description><![CDATA[记录平时浏览到的骚话]]></description>
+</item><item>
+  <title>一些我使用的网站</title>
+  <link>https://jiezai-cbd.github.io/website-used/</link>
+  <pubDate>Mon, 11 Apr 2022 12:14:49 &#43;0800</pubDate>
+  <author>jiezai-cbd</author>
+  <guid>https://jiezai-cbd.github.io/website-used/</guid>
+  <description><![CDATA[一些我使用的网站]]></description>
+</item><item>
+  <title>记录我看过的小说</title>
+  <link>https://jiezai-cbd.github.io/some-littlesay/</link>
+  <pubDate>Mon, 11 Apr 2022 12:14:49 &#43;0800</pubDate>
+  <author>jiezai-cbd</author>
+  <guid>https://jiezai-cbd.github.io/some-littlesay/</guid>
+  <description><![CDATA[记录我看过的小说]]></description>
 </item><item>
   <title>我在windows下使用的软件</title>
   <link>https://jiezai-cbd.github.io/software-windows/</link>
@@ -32,13 +39,6 @@
   <author>jiezai-cbd</author>
   <guid>https://jiezai-cbd.github.io/software-linux/</guid>
   <description><![CDATA[我在linux下使用的软件]]></description>
-</item><item>
-  <title>一些我使用的网站</title>
-  <link>https://jiezai-cbd.github.io/website-used/</link>
-  <pubDate>Mon, 11 Apr 2022 12:14:49 &#43;0800</pubDate>
-  <author>jiezai-cbd</author>
-  <guid>https://jiezai-cbd.github.io/website-used/</guid>
-  <description><![CDATA[一些我使用的网站]]></description>
 </item><item>
   <title>记录看过的动漫</title>
   <link>https://jiezai-cbd.github.io/some-animataion/</link>
