@@ -56,11 +56,25 @@
   <guid>https://jiezai-cbd.github.io/pwa-support/</guid>
   <description><![CDATA[<p>了解如何在 FixIt 主题中配置渐进式网络应用程序 (PWA)。</p>]]></description>
 </item><item>
-  <title>我在linux下使用的软件</title>
-  <link>https://jiezai-cbd.github.io/desktop/</link>
+  <title>一些我使用的网站</title>
+  <link>https://jiezai-cbd.github.io/website-used/</link>
   <pubDate>Mon, 11 Apr 2022 12:14:49 &#43;0800</pubDate>
   <author>jiezai-cbd</author>
-  <guid>https://jiezai-cbd.github.io/desktop/</guid>
+  <guid>https://jiezai-cbd.github.io/website-used/</guid>
+  <description><![CDATA[一些我使用的网站]]></description>
+</item><item>
+  <title>刘备的生平事迹</title>
+  <link>https://jiezai-cbd.github.io/emperor-uncle/</link>
+  <pubDate>Mon, 11 Apr 2022 12:14:49 &#43;0800</pubDate>
+  <author>jiezai-cbd</author>
+  <guid>https://jiezai-cbd.github.io/emperor-uncle/</guid>
+  <description><![CDATA[刘备的生平事迹]]></description>
+</item><item>
+  <title>我在linux下使用的软件</title>
+  <link>https://jiezai-cbd.github.io/software-linux/</link>
+  <pubDate>Mon, 11 Apr 2022 12:14:49 &#43;0800</pubDate>
+  <author>jiezai-cbd</author>
+  <guid>https://jiezai-cbd.github.io/software-linux/</guid>
   <description><![CDATA[我在linux下使用的软件]]></description>
 </item></channel>
 </rss>
