@@ -7,6 +7,8 @@ author: "Lruihao"
 authorLink: "https://lruihao.cn"
 description: "在 FixIt 中设置 PWA 的指南。"
 
+hiddenFromHomePage: true
+
 tags: ["PWA"]
 categories: ["Documentation"]
 

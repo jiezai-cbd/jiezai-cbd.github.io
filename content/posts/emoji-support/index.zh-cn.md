@@ -7,6 +7,9 @@ draft: false
 author: "Dillon"
 authorLink: "https://dillonzq.com"
 description: "Hugo 和 FixIt 中的 Emoji 的用法指南。"
+
+hiddenFromHomePage: true
+
 resources:
 - name: "featured-image"
   src: "featured-image.jpg"
