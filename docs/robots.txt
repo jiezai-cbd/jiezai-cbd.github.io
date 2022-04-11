@@ -61,4 +61,4 @@ Disallow: /
 User-agent: ZoominfoBot
 Disallow: /
 
-Sitemap: https://jiezai-cbd.github.io/en/sitemap.xml
+Sitemap: https://jiezai-cbd.github.io/sitemap.xml

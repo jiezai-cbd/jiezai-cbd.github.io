@@ -32,243 +32,243 @@ enableEmoji = true
   lastmod = [":git", "lastmod", ":fileModTime", ":defalut"]
 
 [languages]
-  [languages.en]
-    weight = 1
-    # language code
-    languageCode = "en"
-    # language name
-    languageName = "English"
-    # whether to include Chinese/Japanese/Korean
-    hasCJKLanguage = false
-    # default amount of posts in each pages
-    paginate = 12
-    # [UA-XXXXXXXX-X] google analytics code
-    googleAnalytics = ""
-    # copyright description used only for seo schema
-    copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License."
-    # Menu config
-    [languages.en.menu]
-      [[languages.en.menu.main]]
-        identifier = "posts"
-        # Identifier of the parent menu item since v0.2.14
-        parent = ""
-        # you can add extra information before the name (HTML format is supported), such as icons
-        pre = "<i class='fas fa-archive fa-fw fa-sm'></i>"
-        # you can add extra information after the name (HTML format is supported), such as icons
-        post = ""
-        name = "Posts"
-        url = "/posts/"
-        # title will be shown when you hover on this menu link
-        title = ""
-        weight = 1
-      [[languages.en.menu.main]]
-        identifier = "categories"
-        pre = "<i class='fas fa-th fa-fw fa-sm'></i>"
-        post = ""
-        name = "Categories"
-        url = "/categories/"
-        title = ""
-        weight = 2
-      [[languages.en.menu.main]]
-        identifier = "tags"
-        pre = "<i class='fas fa-tags fa-fw fa-sm'></i>"
-        post = ""
-        name = "Tags"
-        url = "/tags/"
-        title = ""
-        weight = 3
-      [[languages.en.menu.main]]
-        identifier = "documentation"
-        pre = "<i class='fas fa-book fa-fw fa-sm'></i>"
-        post = ""
-        name = "Docs"
-        url = "/categories/documentation/"
-        title = "Theme Documentation"
-        weight = 4
-      [[languages.en.menu.main]]
-        identifier = "tests"
-        pre = "<i class='fas fa-flask fa-fw fa-sm'></i>"
-        post = ""
-        name = "Tests"
-        url = "/tests/"
-        title = "Test for FixIt"
-        weight = 5
-        [languages.en.menu.main.params]
-          draft = true
-      [[languages.en.menu.main]]
-        identifier = "friends"
-        pre = "<i class='fas fa-users fa-fw fa-sm'></i>"
-        post = ""
-        name = "Friends"
-        url = "/friends/"
-        title = ""
-        weight = 6
-      [[languages.en.menu.main]]
-        identifier = "about"
-        pre = "<i class='fas fa-info-circle fa-fw fa-sm'></i>"
-        post = ""
-        name = "About"
-        url = "/about/"
-        title = ""
-        weight = 7
-      [[languages.en.menu.main]]
-        identifier = "github"
-        pre = "<i class='fab fa-github fa-fw'></i>"
-        post = ""
-        name = ""
-        url = "https://github.com/jiezai-cbd"
-        title = "GitHub"
-        weight = 8
-        [languages.en.menu.main.params]
-          class = "text-center"
-    [languages.en.params]
-      # site description
-      description = "About FixIt Theme"
-      # site keywords
-      keywords = ["Theme", "Hugo"]
-      # App icon config
-      [languages.en.params.app]
-        # optional site title override for the app when added to an iOS home screen or Android launcher
-        title = "FixIt"
-        # whether to omit favicon resource links
-        noFavicon = false
-        # modern SVG favicon to use in place of older style .png and .ico files
-        svgFavicon = ""
-        # Safari mask icon color
-        iconColor = "#5bbad5"
-        # Windows v8-10 tile color
-        tileColor = "#da532c"
-        # Android browser theme color
-        [languages.en.params.app.themeColor]
-          light = "#ffffff"
-          dark = "#252627"
-      # Search config
-      [languages.en.params.search]
-        enable = true
-        # type of search engine ("lunr", "algolia")
-        type = "algolia"
-        # max index length of the chunked content
-        contentLength = 4000
-        # placeholder of the search bar
-        placeholder = ""
-        # max number of results length
-        maxResultLength = 10
-        # snippet length of the result
-        snippetLength = 30
-        # HTML tag name of the highlight part in results
-        highlightTag = "em"
-        # whether to use the absolute URL based on the baseURL in search index
-        absoluteURL = false
-        [languages.en.params.search.algolia]
-          index = "index.en"
-          appID = "YKOM6PKLUY"
-          searchKey = "a44c110d3ac360be2c69cd79d34b77a8"
-      # Home page config
-      [languages.en.params.home]
-        # amount of RSS pages
-        rss = 10
-        # Home page profile
-        [languages.en.params.home.profile]
-          enable = true
-          # Gravatar mirror site domain, default: "www.gravatar.com" since v0.2.13
-          gravatarSite = ""
-          # Gravatar Email for preferred avatar in home page
-          gravatarEmail = ""
-          # URL of avatar shown in home page
-          avatarURL = "/images/avatar.png"
-          # title shown in home page (HTML format is supported)
-          title = ""
-          # subtitle shown in home page
-          subtitle = "A Clean, Elegant but Advanced Hugo Theme"
-          # whether to use typeit animation for subtitle
-          typeit = true
-          # whether to show social links
-          social = true
-          # disclaimer (HTML format is supported)
-          disclaimer = ""
-        # Home page posts
-        [languages.en.params.home.posts]
-          enable = true
-          # special amount of posts in each home posts page
-          paginate = 7
-      # Social config in home page
-      [languages.en.params.social]
-        GitHub = "xxxx"
-        Linkedin = ""
-        Twitter = "xxxx"
-        Instagram = "xxxx"
-        Facebook = "xxxx"
-        Telegram = "xxxx"
-        Medium = ""
-        Gitlab = ""
-        Youtubelegacy = "xxxx"
-        Youtubecustom = ""
-        Youtubechannel = ""
-        Tumblr = ""
-        Quora = ""
-        Keybase = ""
-        Pinterest = ""
-        Reddit = ""
-        Codepen = ""
-        FreeCodeCamp = ""
-        Bitbucket = ""
-        Stackoverflow = ""
-        Weibo = ""
-        Odnoklassniki = ""
-        VK = ""
-        Flickr = ""
-        Xing = ""
-        Snapchat = ""
-        Soundcloud = ""
-        Spotify = ""
-        Bandcamp = ""
-        Paypal = ""
-        Fivehundredpx = ""
-        Mix = ""
-        Goodreads = ""
-        Lastfm = ""
-        Foursquare = ""
-        Hackernews = ""
-        Kickstarter = ""
-        Patreon = ""
-        Steam = ""
-        Twitch = ""
-        Strava = ""
-        Skype = ""
-        Whatsapp = ""
-        Zhihu = ""
-        Douban = ""
-        Angellist = ""
-        Slidershare = ""
-        Jsfiddle = ""
-        Deviantart = ""
-        Behance = ""
-        Dribbble = ""
-        Wordpress = ""
-        Vine = ""
-        Googlescholar = ""
-        Researchgate = ""
-        Thingiverse = ""
-        Devto = ""
-        Gitea = ""
-        XMPP = ""
-        Matrix = ""
-        Bilibili = ""
-        # ORCID, ... , CSDN since v0.2.13
-        ORCID = ""
-        Liberapay = ""
-        Ko-Fi = ""
-        BuyMeaCoffee = ""
-        Linktree = ""
-        QQ = ""
-        QQGroup = ""
-        Diaspora = ""
-        CSDN = ""
-        Email = "xxxx@xxxx.com"
-        RSS = true # since v0.2.0
-        [languages.en.params.social.Mastodon]
-          id = "@xxxx"
-          prefix = "https://mastodon.technology/"
+  # [languages.en]
+  #   weight = 1
+  #   # language code
+  #   languageCode = "en"
+  #   # language name
+  #   languageName = "English"
+  #   # whether to include Chinese/Japanese/Korean
+  #   hasCJKLanguage = false
+  #   # default amount of posts in each pages
+  #   paginate = 12
+  #   # [UA-XXXXXXXX-X] google analytics code
+  #   googleAnalytics = ""
+  #   # copyright description used only for seo schema
+  #   copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License."
+  #   # Menu config
+  #   [languages.en.menu]
+  #     [[languages.en.menu.main]]
+  #       identifier = "posts"
+  #       # Identifier of the parent menu item since v0.2.14
+  #       parent = ""
+  #       # you can add extra information before the name (HTML format is supported), such as icons
+  #       pre = "<i class='fas fa-archive fa-fw fa-sm'></i>"
+  #       # you can add extra information after the name (HTML format is supported), such as icons
+  #       post = ""
+  #       name = "Posts"
+  #       url = "/posts/"
+  #       # title will be shown when you hover on this menu link
+  #       title = ""
+  #       weight = 1
+  #     [[languages.en.menu.main]]
+  #       identifier = "categories"
+  #       pre = "<i class='fas fa-th fa-fw fa-sm'></i>"
+  #       post = ""
+  #       name = "Categories"
+  #       url = "/categories/"
+  #       title = ""
+  #       weight = 2
+  #     [[languages.en.menu.main]]
+  #       identifier = "tags"
+  #       pre = "<i class='fas fa-tags fa-fw fa-sm'></i>"
+  #       post = ""
+  #       name = "Tags"
+  #       url = "/tags/"
+  #       title = ""
+  #       weight = 3
+  #     [[languages.en.menu.main]]
+  #       identifier = "documentation"
+  #       pre = "<i class='fas fa-book fa-fw fa-sm'></i>"
+  #       post = ""
+  #       name = "Docs"
+  #       url = "/categories/documentation/"
+  #       title = "Theme Documentation"
+  #       weight = 4
+  #     [[languages.en.menu.main]]
+  #       identifier = "tests"
+  #       pre = "<i class='fas fa-flask fa-fw fa-sm'></i>"
+  #       post = ""
+  #       name = "Tests"
+  #       url = "/tests/"
+  #       title = "Test for FixIt"
+  #       weight = 5
+  #       [languages.en.menu.main.params]
+  #         draft = true
+  #     [[languages.en.menu.main]]
+  #       identifier = "friends"
+  #       pre = "<i class='fas fa-users fa-fw fa-sm'></i>"
+  #       post = ""
+  #       name = "Friends"
+  #       url = "/friends/"
+  #       title = ""
+  #       weight = 6
+  #     [[languages.en.menu.main]]
+  #       identifier = "about"
+  #       pre = "<i class='fas fa-info-circle fa-fw fa-sm'></i>"
+  #       post = ""
+  #       name = "About"
+  #       url = "/about/"
+  #       title = ""
+  #       weight = 7
+  #     [[languages.en.menu.main]]
+  #       identifier = "github"
+  #       pre = "<i class='fab fa-github fa-fw'></i>"
+  #       post = ""
+  #       name = ""
+  #       url = "https://github.com/jiezai-cbd"
+  #       title = "GitHub"
+  #       weight = 8
+  #       [languages.en.menu.main.params]
+  #         class = "text-center"
+  #   [languages.en.params]
+  #     # site description
+  #     description = "About FixIt Theme"
+  #     # site keywords
+  #     keywords = ["Theme", "Hugo"]
+  #     # App icon config
+  #     [languages.en.params.app]
+  #       # optional site title override for the app when added to an iOS home screen or Android launcher
+  #       title = "FixIt"
+  #       # whether to omit favicon resource links
+  #       noFavicon = false
+  #       # modern SVG favicon to use in place of older style .png and .ico files
+  #       svgFavicon = ""
+  #       # Safari mask icon color
+  #       iconColor = "#5bbad5"
+  #       # Windows v8-10 tile color
+  #       tileColor = "#da532c"
+  #       # Android browser theme color
+  #       [languages.en.params.app.themeColor]
+  #         light = "#ffffff"
+  #         dark = "#252627"
+  #     # Search config
+  #     [languages.en.params.search]
+  #       enable = true
+  #       # type of search engine ("lunr", "algolia")
+  #       type = "algolia"
+  #       # max index length of the chunked content
+  #       contentLength = 4000
+  #       # placeholder of the search bar
+  #       placeholder = ""
+  #       # max number of results length
+  #       maxResultLength = 10
+  #       # snippet length of the result
+  #       snippetLength = 30
+  #       # HTML tag name of the highlight part in results
+  #       highlightTag = "em"
+  #       # whether to use the absolute URL based on the baseURL in search index
+  #       absoluteURL = false
+  #       [languages.en.params.search.algolia]
+  #         index = "index.en"
+  #         appID = "YKOM6PKLUY"
+  #         searchKey = "a44c110d3ac360be2c69cd79d34b77a8"
+  #     # Home page config
+  #     [languages.en.params.home]
+  #       # amount of RSS pages
+  #       rss = 10
+  #       # Home page profile
+  #       [languages.en.params.home.profile]
+  #         enable = true
+  #         # Gravatar mirror site domain, default: "www.gravatar.com" since v0.2.13
+  #         gravatarSite = ""
+  #         # Gravatar Email for preferred avatar in home page
+  #         gravatarEmail = ""
+  #         # URL of avatar shown in home page
+  #         avatarURL = "/images/avatar.png"
+  #         # title shown in home page (HTML format is supported)
+  #         title = ""
+  #         # subtitle shown in home page
+  #         subtitle = "A Clean, Elegant but Advanced Hugo Theme"
+  #         # whether to use typeit animation for subtitle
+  #         typeit = true
+  #         # whether to show social links
+  #         social = true
+  #         # disclaimer (HTML format is supported)
+  #         disclaimer = ""
+  #       # Home page posts
+  #       [languages.en.params.home.posts]
+  #         enable = true
+  #         # special amount of posts in each home posts page
+  #         paginate = 7
+  #     # Social config in home page
+  #     [languages.en.params.social]
+  #       GitHub = "xxxx"
+  #       Linkedin = ""
+  #       Twitter = "xxxx"
+  #       Instagram = "xxxx"
+  #       Facebook = "xxxx"
+  #       Telegram = "xxxx"
+  #       Medium = ""
+  #       Gitlab = ""
+  #       Youtubelegacy = "xxxx"
+  #       Youtubecustom = ""
+  #       Youtubechannel = ""
+  #       Tumblr = ""
+  #       Quora = ""
+  #       Keybase = ""
+  #       Pinterest = ""
+  #       Reddit = ""
+  #       Codepen = ""
+  #       FreeCodeCamp = ""
+  #       Bitbucket = ""
+  #       Stackoverflow = ""
+  #       Weibo = ""
+  #       Odnoklassniki = ""
+  #       VK = ""
+  #       Flickr = ""
+  #       Xing = ""
+  #       Snapchat = ""
+  #       Soundcloud = ""
+  #       Spotify = ""
+  #       Bandcamp = ""
+  #       Paypal = ""
+  #       Fivehundredpx = ""
+  #       Mix = ""
+  #       Goodreads = ""
+  #       Lastfm = ""
+  #       Foursquare = ""
+  #       Hackernews = ""
+  #       Kickstarter = ""
+  #       Patreon = ""
+  #       Steam = ""
+  #       Twitch = ""
+  #       Strava = ""
+  #       Skype = ""
+  #       Whatsapp = ""
+  #       Zhihu = ""
+  #       Douban = ""
+  #       Angellist = ""
+  #       Slidershare = ""
+  #       Jsfiddle = ""
+  #       Deviantart = ""
+  #       Behance = ""
+  #       Dribbble = ""
+  #       Wordpress = ""
+  #       Vine = ""
+  #       Googlescholar = ""
+  #       Researchgate = ""
+  #       Thingiverse = ""
+  #       Devto = ""
+  #       Gitea = ""
+  #       XMPP = ""
+  #       Matrix = ""
+  #       Bilibili = ""
+  #       # ORCID, ... , CSDN since v0.2.13
+  #       ORCID = ""
+  #       Liberapay = ""
+  #       Ko-Fi = ""
+  #       BuyMeaCoffee = ""
+  #       Linktree = ""
+  #       QQ = ""
+  #       QQGroup = ""
+  #       Diaspora = ""
+  #       CSDN = ""
+  #       Email = "xxxx@xxxx.com"
+  #       RSS = true # since v0.2.0
+  #       [languages.en.params.social.Mastodon]
+  #         id = "@xxxx"
+  #         prefix = "https://mastodon.technology/"
 
   [languages.zh-cn]
     weight = 2

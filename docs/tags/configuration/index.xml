@@ -1,15 +1,22 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-    <title>configuration - Tag - FixIt</title>
+    <title>配置 - 标签 - jiezai-cbd 的博客</title>
     <link>https://jiezai-cbd.github.io/tags/configuration/</link>
-    <description>configuration - Tag - FixIt</description>
-    <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>1024@lruihao.cn (Lruihao)</managingEditor>
-      <webMaster>1024@lruihao.cn (Lruihao)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Fri, 06 Mar 2020 21:29:01 &#43;0800</lastBuildDate><atom:link href="https://jiezai-cbd.github.io/tags/configuration/" rel="self" type="application/rss+xml" /><item>
-  <title>Theme Documentation - Basics</title>
+    <description>配置 - 标签 - jiezai-cbd 的博客</description>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>wwjpcx@163.com (jiezai-cbd)</managingEditor>
+      <webMaster>wwjpcx@163.com (jiezai-cbd)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><atom:link href="https://jiezai-cbd.github.io/tags/configuration/" rel="self" type="application/rss+xml" /><item>
+  <title>主题文档 - 基本概念</title>
   <link>https://jiezai-cbd.github.io/theme-documentation-basics/</link>
-  <pubDate>Fri, 06 Mar 2020 21:29:01 &#43;0800</pubDate>
+  <pubDate>Fri, 06 Mar 2020 21:40:32 &#43;0800</pubDate>
   <author>Lruihao</author>
   <guid>https://jiezai-cbd.github.io/theme-documentation-basics/</guid>
-  <description><![CDATA[<p>Discover what the Hugo - <strong>FixIt</strong> theme is all about and the core-concepts behind it.</p>]]></description>
+  <description><![CDATA[<p>探索 Hugo - <strong>FixIt</strong> 主题的全部内容和背后的核心概念。</p>]]></description>
+</item><item>
+  <title>关于 FixIt</title>
+  <link>https://jiezai-cbd.github.io/theme-documentation-about/</link>
+  <pubDate>Fri, 02 Aug 2019 11:04:49 &#43;0800</pubDate>
+  <author>jiezai-cbd</author>
+  <guid>https://jiezai-cbd.github.io/theme-documentation-about/</guid>
+  <description><![CDATA[FixIt 是一个由 Lruihao 开发的简洁、优雅且高效的 Hugo 博客主题。 它的原型基于 LoveIt 主题，LeaveIt 主题 和 KeepIt 主题。 Hugo 主题 FixItHugo 主题 FixIt " Hugo 主题 FixIt 特性 性能和 SEO <i class="fas fa-rocket fa-fw"></i>&nbsp;性]]></description>
 </item></channel>
 </rss>

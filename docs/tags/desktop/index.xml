@@ -1,0 +1,22 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>desktop - 标签 - jiezai-cbd 的博客</title>
+    <link>https://jiezai-cbd.github.io/tags/desktop/</link>
+    <description>desktop - 标签 - jiezai-cbd 的博客</description>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>wwjpcx@163.com (jiezai-cbd)</managingEditor>
+      <webMaster>wwjpcx@163.com (jiezai-cbd)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Mon, 11 Apr 2022 12:14:49 &#43;0800</lastBuildDate><atom:link href="https://jiezai-cbd.github.io/tags/desktop/" rel="self" type="application/rss+xml" /><item>
+  <title>我在linux下使用的软件</title>
+  <link>https://jiezai-cbd.github.io/software-linux/</link>
+  <pubDate>Mon, 11 Apr 2022 12:14:49 &#43;0800</pubDate>
+  <author>jiezai-cbd</author>
+  <guid>https://jiezai-cbd.github.io/software-linux/</guid>
+  <description><![CDATA[我在linux下使用的软件]]></description>
+</item><item>
+  <title>我在windows下使用的软件</title>
+  <link>https://jiezai-cbd.github.io/software-windows/</link>
+  <pubDate>Mon, 11 Apr 2022 12:14:49 &#43;0800</pubDate>
+  <author>jiezai-cbd</author>
+  <guid>https://jiezai-cbd.github.io/software-windows/</guid>
+  <description><![CDATA[我在windows下使用的软件]]></description>
+</item></channel>
+</rss>
