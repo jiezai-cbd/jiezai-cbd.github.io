@@ -4,7 +4,7 @@
     <link>https://jiezai-cbd.github.io/</link>
     <description>jiezai-cbd 的博客</description>
     <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>wwjpcx@163.com (jiezai-cbd)</managingEditor>
-      <webMaster>wwjpcx@163.com (jiezai-cbd)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Mon, 11 Apr 2022 12:14:49 &#43;0800</lastBuildDate>
+      <webMaster>wwjpcx@163.com (jiezai-cbd)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Thu, 14 Apr 2022 20:00:35 &#43;0800</lastBuildDate>
       <atom:link href="https://jiezai-cbd.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
   <title>主题文档 - 基本概念</title>
@@ -56,6 +56,13 @@
   <guid>https://jiezai-cbd.github.io/pwa-support/</guid>
   <description><![CDATA[<p>了解如何在 FixIt 主题中配置渐进式网络应用程序 (PWA)。</p>]]></description>
 </item><item>
+  <title>备忘录</title>
+  <link>https://jiezai-cbd.github.io/memorandum/</link>
+  <pubDate>Thu, 14 Apr 2022 20:00:35 &#43;0800</pubDate>
+  <author>jiezai-cbd</author>
+  <guid>https://jiezai-cbd.github.io/memorandum/</guid>
+  <description><![CDATA[<h2 id="以下密码皆为虚拟机哦没有任何参考价值呢">以下密码皆为虚拟机哦，没有任何参考价值呢～</h2>]]></description>
+</item><item>
   <title>一些我使用的网站</title>
   <link>https://jiezai-cbd.github.io/website-used/</link>
   <pubDate>Mon, 11 Apr 2022 12:14:49 &#43;0800</pubDate>
@@ -69,12 +76,5 @@
   <author>jiezai-cbd</author>
   <guid>https://jiezai-cbd.github.io/emperor-uncle/</guid>
   <description><![CDATA[刘备的生平事迹]]></description>
-</item><item>
-  <title>我在linux下使用的软件</title>
-  <link>https://jiezai-cbd.github.io/software-linux/</link>
-  <pubDate>Mon, 11 Apr 2022 12:14:49 &#43;0800</pubDate>
-  <author>jiezai-cbd</author>
-  <guid>https://jiezai-cbd.github.io/software-linux/</guid>
-  <description><![CDATA[我在linux下使用的软件]]></description>
 </item></channel>
 </rss>
